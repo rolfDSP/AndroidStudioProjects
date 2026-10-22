@@ -1,0 +1,4 @@
+# Gradle wrapper scripts need fixed line endings in every project
+gradlew text eol=lf
+*.bat text eol=crlf
+*.jar binary
