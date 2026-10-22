@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 108 108">
+  <defs>
+    <radialGradient id="ball" cx="46" cy="46" r="34" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF5A5A"/>
+      <stop offset="1" stop-color="#B00000"/>
+    </radialGradient>
+  </defs>
+  <rect width="108" height="108" fill="#FFFFFF"/>
+  <circle cx="54" cy="54" r="26" fill="url(#ball)"/>
+</svg>
